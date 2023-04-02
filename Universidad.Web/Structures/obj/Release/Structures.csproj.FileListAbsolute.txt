@@ -1,0 +1,6 @@
+D:\Portal WEB\ActualizacionAlbaranes\Structures\bin\Release\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Structures\bin\Release\Structures.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Release\Structures.csproj.AssemblyReference.cache
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Release\Structures.csproj.CoreCompileInputs.cache
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Release\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Release\Structures.pdb

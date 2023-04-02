@@ -1,0 +1,38 @@
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\bin\Debug\Connection.dll
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\bin\Debug\Connection.pdb
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\bin\Debug\Structures.dll
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\bin\Debug\Structures.pdb
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csprojAssemblyReference.cache
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csproj.CopyComplete
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Debug\Connection.dll
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Debug\Connection.pdb
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes - copia\Connection\bin\Debug\Connection.dll
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes - copia\Connection\bin\Debug\Connection.pdb
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes - copia\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes - copia\Connection\obj\Debug\Connection.csproj.CopyComplete
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes - copia\Connection\obj\Debug\Connection.dll
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes - copia\Connection\obj\Debug\Connection.pdb
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\bin\Debug\Connection.dll
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\bin\Debug\Connection.pdb
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csprojAssemblyReference.cache
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csproj.CopyComplete
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\obj\Debug\Connection.dll
+C:\PROYECTOS ANDRES\CREANDO-NEGOCIO\ActualizacionAlbaranes\Connection\obj\Debug\Connection.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Debug\Connection.dll
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Debug\Connection.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Debug\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Debug\Structures.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Debug\Connection.csproj.CopyComplete
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Debug\Connection.dll
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Debug\Connection.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\bin\Debug\Connection.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\bin\Debug\Connection.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\bin\Debug\Structures.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\bin\Debug\Structures.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\obj\Debug\Connection.csproj.CoreCompileInputs.cache
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\obj\Debug\Connection.csproj.CopyComplete
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\obj\Debug\Connection.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Connection\obj\Debug\Connection.pdb

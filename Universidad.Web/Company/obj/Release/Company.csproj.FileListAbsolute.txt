@@ -1,0 +1,10 @@
+D:\Portal WEB\ActualizacionAlbaranes\Company\bin\Release\Company.dll
+D:\Portal WEB\ActualizacionAlbaranes\Company\bin\Release\Company.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Company\bin\Release\Connection.dll
+D:\Portal WEB\ActualizacionAlbaranes\Company\bin\Release\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Company\bin\Release\Connection.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Company\bin\Release\Structures.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Company\obj\Release\Company.csproj.CoreCompileInputs.cache
+D:\Portal WEB\ActualizacionAlbaranes\Company\obj\Release\Company.csproj.CopyComplete
+D:\Portal WEB\ActualizacionAlbaranes\Company\obj\Release\Company.dll
+D:\Portal WEB\ActualizacionAlbaranes\Company\obj\Release\Company.pdb

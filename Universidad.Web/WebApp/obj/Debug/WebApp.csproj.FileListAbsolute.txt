@@ -1,0 +1,125 @@
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\WebApp.dll.config
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\WebApp.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\WebApp.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csc.exe
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csc.exe.config
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csc.rsp
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csi.exe
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csi.rsp
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.AppContext.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\vbc.exe
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\vbc.exe.config
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\vbc.rsp
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Company.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Connection.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Structures.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Company.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Connection.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\bin\Structures.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.pdb
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\WebApp.dll.config
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\WebApp.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\WebApp.pdb
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csc.exe
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csc.exe.config
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csc.rsp
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csi.exe
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\csi.rsp
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.AppContext.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\vbc.exe
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\vbc.exe.config
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\vbc.rsp
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Company.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Connection.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Structures.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Company.pdb
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Connection.pdb
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\bin\Structures.pdb
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.dll
+D:\Desarrollo_Software\Pruebas Tecnicas Empleos\Digital Ware\PruebaTecnicaDigitalWare\WebApp\obj\Debug\WebApp.pdb
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\WebApp.dll.config
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\WebApp.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\WebApp.pdb
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\csc.exe
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\csc.exe.config
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\csc.rsp
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\csi.exe
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\csi.rsp
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\System.AppContext.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\vbc.exe
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\vbc.exe.config
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\vbc.rsp
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Company.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Connection.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Structures.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Company.pdb
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Connection.pdb
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\bin\Structures.pdb
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\obj\Debug\WebApp.dll
+D:\Universidad Iberoamericano\Actividades semestre 5\Arquitectura de software\Actividad 4\Universidad.Web\WebApp\obj\Debug\WebApp.pdb

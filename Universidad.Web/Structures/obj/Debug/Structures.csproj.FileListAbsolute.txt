@@ -1,0 +1,10 @@
+D:\Portal WEB\ActualizacionAlbaranes\Structures\bin\Debug\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Structures\bin\Debug\Structures.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Debug\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Structures\obj\Debug\Structures.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Structures\bin\Debug\Structures.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Structures\bin\Debug\Structures.pdb
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Structures\obj\Debug\Structures.dll
+D:\Desarrollo_Software\PruebaTecnicaDigitalWare\Structures\obj\Debug\Structures.pdb

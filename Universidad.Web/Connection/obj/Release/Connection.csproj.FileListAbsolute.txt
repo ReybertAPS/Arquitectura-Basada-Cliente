@@ -1,0 +1,14 @@
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\bin\Release\Connection.dll
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\bin\Release\Connection.pdb
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Release\Connection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Release\Connection.dll
+C:\Users\User\source\TrabajosAndres\ActualizacionAlbaranes\Connection\obj\Release\Connection.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Release\Connection.dll
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Release\Connection.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Release\Structures.dll
+D:\Portal WEB\ActualizacionAlbaranes\Connection\bin\Release\Structures.pdb
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Release\Connection.csproj.AssemblyReference.cache
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Release\Connection.csproj.CoreCompileInputs.cache
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Release\Connection.csproj.CopyComplete
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Release\Connection.dll
+D:\Portal WEB\ActualizacionAlbaranes\Connection\obj\Release\Connection.pdb
